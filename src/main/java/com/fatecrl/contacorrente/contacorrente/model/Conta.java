@@ -77,7 +77,7 @@ public class Conta implements Serializable{
 	    if(other.id != null)
 		return false;
 	}
-	else if( !if.equals(other.id) )
+	else if( !id.equals(other.id) )
 	    return false;
 	return true;
     }
