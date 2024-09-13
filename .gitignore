@@ -1,3 +1,6 @@
+post.bash
+post_payload.txt
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
