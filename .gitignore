@@ -1,5 +1,5 @@
-post.bash
-post_payload.txt
+curl_http_req.bash
+curl_json_body.txt
 
 HELP.md
 target/
